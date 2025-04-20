@@ -1,2 +1,2 @@
 # github-actions
-DevOps prjects 
+* DevOps prjects 
